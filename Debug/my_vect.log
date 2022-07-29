@@ -1,0 +1,21 @@
+﻿  interf.cpp
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(202,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(200): message : podczas kompilowania funkcji składowej „void my_vect<node>::show_all(void)” klasy klasa szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\interf.cpp(101): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void my_vect<node>::show_all(void)” funkcji szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\interf.h(12): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „my_vect<node>” klasy klasa szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(214,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(212): message : podczas kompilowania funkcji składowej „void my_vect<node>::show_all_with_ind(void)” klasy klasa szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\interf.cpp(31): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void my_vect<node>::show_all_with_ind(void)” funkcji szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(254,10): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(253): message : podczas kompilowania funkcji składowej „bool my_vect<node>::chkInd(int)” klasy klasa szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\interf.cpp(69): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „bool my_vect<node>::chkInd(int)” funkcji szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(54,9): warning C4101: "it": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\interf.cpp(110): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „std::fstream &operator <<<node>(std::fstream &,my_vect<node> &)” funkcji szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(188,24): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(187): message : podczas kompilowania funkcji składowej „void my_vect<node>::packArray(int)” klasy klasa szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(167): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void my_vect<node>::packArray(int)” funkcji szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\my_vect.h(93): message : podczas kompilowania funkcji składowej „my_vect<node>::my_vect(size_t)” klasy klasa szablon
+C:\Users\mateu\source\repos\tmp\my_vect\my_vect\interf.h(12): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „my_vect<node>::my_vect(size_t)” funkcji szablon
+  main.cpp
+  Generowanie kodu...
+  my_vect.vcxproj -> C:\Users\mateu\source\repos\tmp\my_vect\Debug\my_vect.exe
